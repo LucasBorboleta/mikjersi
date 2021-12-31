@@ -1,4 +1,4 @@
 # TODO
 Next tasks:
 
-- [ ] Test the rules to ensure its fun!
+- [ ] Test the rules to ensure their fun!
