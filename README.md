@@ -21,9 +21,9 @@ A possible symmetric starting setup:
 
 ![](./pictures/starting-positions.png)
 
-A situation during a game play:
+An animated game play from two IA agents:
 
-![](./pictures/random-positions.png)
+![](./pictures/minimax-2-vs-idem-all-states.gif)
 
 
 
