@@ -10,7 +10,7 @@ The rules of Mikjersi are those of Jersi, but with the following major changes:
 
 - **Board** -- The board is made of 5x5 squared cells.
 - **Moves** -- The moves are only vertically and horizontally, but not along diagonal.
-- **Cubes** -- Each player owns 7 sorts of cubes:  rock, paper, scissors, fool, king, mountain and wise.
+- **Cubes** -- Each player owns 7 cubes:  rock, paper, scissors, fool, king, mountain and wise.
 
 The complete rules of Mikjersi can be found in the booklet either in [English](./Mikjersi-the-rules.pdf) or in [French](./Mikjersi-les-regles.pdf).
 
