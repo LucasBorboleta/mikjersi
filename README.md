@@ -14,7 +14,7 @@ The rules of Mikjersi are those of Jersi, but with the following major changes:
 
 The complete rules of Mikjersi can be found in the booklet either in [English](./Mikjersi-the-rules.pdf) or in [French](./Mikjersi-les-regles.pdf).
 
-Above, from the standard setting, an animated game play from two AI agents starting by the sister project [*mikjersi-certu*]( https://github.com/LucasBorboleta/mikjersi-certu). 
+Above an animated game play from two AI agents of the sister project [*mikjersi-certu*]( https://github.com/LucasBorboleta/mikjersi-certu). 
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
