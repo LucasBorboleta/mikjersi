@@ -4,7 +4,7 @@ Mikjersi describes the rules of a micro-variant of the board game [*jersi*](http
 
 Pronounce /`mik-jer-ssi`/ in [lojban](https://www.lojban.org/) : `mik` = micro and `jersi` = chase/persue.
 
-![](./pictures/minimax-2-vs-minimax-1.gif)
+![](./pictures/Miniature.jpg)
 
 The rules of Mikjersi are those of Jersi, but with the following major changes:
 
@@ -14,6 +14,8 @@ The rules of Mikjersi are those of Jersi, but with the following major changes:
 - **Exchange of prisoners** -- For 2 turns during a game, when a player captures cubes whose sorts exist as prisoners by his opponent, then those prisoners are immediately exchanged and moved into their respective reserves.
 
 The complete rules of Mikjersi can be found in the booklet either in [English](./Mikjersi-the-rules.pdf) or in [French](./Mikjersi-les-regles.pdf).
+
+![](./pictures/minimax-2-vs-minimax-1.gif)
 
 Above an animated game play from two AI agents of the sister project [*mikjersi-certu*]( https://github.com/LucasBorboleta/mikjersi-certu). 
 
